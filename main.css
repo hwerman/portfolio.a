@@ -83,3 +83,19 @@ p{
 .inputDiv{
   height: 120px;
 }
+
+#catPic{
+  height: 30px;
+  width: 30px;
+  align-self: flex-end;
+}
+#linkPic{
+  height: 30px;
+  width: 30px;
+  align-self: flex-end;
+}
+#mailPic{
+  height: 30px;
+  width: 30px;
+  align-self: flex-end;
+}
